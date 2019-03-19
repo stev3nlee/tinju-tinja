@@ -1,0 +1,84 @@
+@font-face {
+	font-family:'DIN-Regular';
+	src: url('DIN-Regular_gdi.eot');
+	src: url('DIN-Regular_gdi.eot?#iefix') format('embedded-opentype'),
+		url('DIN-Regular_gdi.woff') format('woff'),
+		url('DIN-Regular_gdi.ttf') format('truetype'),
+		url('DIN-Regular_gdi.svg#DIN-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-FFFD;
+}
+@font-face {
+	font-family:'DIN-Medium';
+	src: url('DIN-Medium_gdi.eot');
+	src: url('DIN-Medium_gdi.eot?#iefix') format('embedded-opentype'),
+		url('DIN-Medium_gdi.woff') format('woff'),
+		url('DIN-Medium_gdi.ttf') format('truetype'),
+		url('DIN-Medium_gdi.svg#DIN-Medium') format('svg');
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-FFFD;
+}
+@font-face {
+	font-family:'DIN-Light';
+	src: url('DIN-Light_gdi.eot');
+	src: url('DIN-Light_gdi.eot?#iefix') format('embedded-opentype'),
+		url('DIN-Light_gdi.woff') format('woff'),
+		url('DIN-Light_gdi.ttf') format('truetype'),
+		url('DIN-Light_gdi.svg#DIN-Light') format('svg');
+	font-weight: 200;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-FFFD;
+}
+@font-face {
+	font-family:'DIN-Bold';
+	src: url('DIN-Bold_gdi.eot');
+	src: url('DIN-Bold_gdi.eot?#iefix') format('embedded-opentype'),
+		url('DIN-Bold_gdi.woff') format('woff'),
+		url('DIN-Bold_gdi.ttf') format('truetype'),
+		url('DIN-Bold_gdi.svg#DIN-Bold') format('svg');
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-FFFD;
+}
+@font-face {
+	font-family:'DIN-Black';
+	src: url('DIN-Black_gdi.eot');
+	src: url('DIN-Black_gdi.eot?#iefix') format('embedded-opentype'),
+		url('DIN-Black_gdi.woff') format('woff'),
+		url('DIN-Black_gdi.ttf') format('truetype'),
+		url('DIN-Black_gdi.svg#DIN-Black') format('svg');
+	font-weight: 900;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-FFFD;
+}
+@font-face {
+	font-family:'TrashHand-Regular';
+	src: url('TrashHand_gdi.eot');
+	src: url('TrashHand_gdi.eot?#iefix') format('embedded-opentype'),
+		url('TrashHand_gdi.woff') format('woff'),
+		url('TrashHand_gdi.ttf') format('truetype'),
+		url('TrashHand_gdi.svg#TrashHand-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-25CA;
+}
+@font-face {
+	font-family:'College-Regular';
+	src: url('College_gdi.eot');
+	src: url('College_gdi.eot?#iefix') format('embedded-opentype'),
+		url('College_gdi.woff') format('woff'),
+		url('College_gdi.ttf') format('truetype'),
+		url('College_gdi.svg#College-Regular') format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-007A;
+}
